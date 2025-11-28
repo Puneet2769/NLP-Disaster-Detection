@@ -50,9 +50,6 @@ Run the script:
 
 python nlp_tweet_classifier.py
 
-yaml
-Copy code
-
 The script will:
 
 ✔ Load and clean the text  
@@ -71,21 +68,19 @@ The script will:
 - Fast and interpretable  
 
 ---
-
+```bash
 ## 📁 Repository Structure  
 
 ├── nlp_tweet_classifier.py # main training + inference script
 ├── submission_simple_nlp.csv # generated submission
 ├── requirements.txt # optional
 └── README.md
-
+```
 
 ---
 
 ## 👤 Author  
 **Puneet Poddar**  
+
 Kaggle Profile: (https://www.kaggle.com/puneet2769)
 
-  - Character-level features  
-  - SVM or LinearSVC  
-  - Deep learning models (LSTM, BERT, etc.)  
